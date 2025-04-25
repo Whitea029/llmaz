@@ -4,7 +4,7 @@
 
 **Requirements**:
 
-- Kubernetes version >= 1.27
+- Kubernetes version >= 1.26
 - Helm 3, see [installation](https://helm.sh/docs/intro/install/).
 - Prometheus, see [installation](https://github.com/InftyAI/llmaz/tree/main/docs/prometheus-operator#install-the-prometheus-operator).
 
